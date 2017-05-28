@@ -1,1 +1,0 @@
-# taufiqmmhd.github.io
