@@ -66,13 +66,16 @@ p.card-description {
     padding: 2px 20px 8px;
 }
 
-p.logo {
+p.logo{
     font-size: 40;
-    color: white
+    color: white;
+    
 }
 
-p.logo:hover {
-    transform: scale(1.5,1.5)
+
+.fa:hover {
+    transition: 0.8s;
+    transform: rotate(360deg);
 }
 
 h4 {
