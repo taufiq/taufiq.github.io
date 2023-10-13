@@ -9,6 +9,6 @@ tend to involve finding loopholes and exploiting them to benefit the people arou
 
 Places I've interned at:
 
-- [**Open Government Products, Singapore**](https://www.open.gov.sg/) – Built COVID products for the nation and messing around with Git Trees for a CMS
+- [**Open Government Products, Singapore**](https://www.open.gov.sg/) – Built COVID products for the nation and messed around with Git Trees for a CMS
 - [**A\*STAR**](https://www.a-star.edu.sg/ihpc) – Built a monitoring platform for pipe leakages
-- [**Codigo**](https://www.google.com/search?q=codigo&sourceid=chrome&ie=UTF-8) – Wrote the app for delivering for WhiteCoat, a leading telehealth provider in Singapore
+- [**Codigo**](https://www.google.com/search?q=codigo&sourceid=chrome&ie=UTF-8) – Wrote the app for delivering medication for a telehealth company called _WhiteCoat_
