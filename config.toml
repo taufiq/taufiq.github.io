@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Taufiq's Space"
+theme = "hugo-bearcub"
+copyright = "Taufiq"
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "Hugo + Bear = :heart:"
+  madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  [social]
+    email = "taufiqmmhd@gmail.com" # Added to the navbar so readers can reply to posts
+    twitter = "taufiqmmhd" # Twitter handle (without '@')
