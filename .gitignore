@@ -7,3 +7,5 @@ vendor
 node_modules/
 styles.css
 *.swp
+
+.DS_Store
